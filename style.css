@@ -41,6 +41,13 @@ size:100%;
     width:50px;
 }
 
+.save_button:hover{
+    background-image: url("./resources/images/lock_black2.png");
+    background-repeat: no-repeat;
+    background-size: 48px 36px;
+
+}
+
 .time{
     width:75px; 
      padding-right:20px; 

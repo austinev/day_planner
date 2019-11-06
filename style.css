@@ -1,0 +1,64 @@
+#header_div{
+text-align:center;
+
+
+}
+
+.times{
+border-top: 1px solid grey;
+border-bottom: 1px solid grey;
+width:100px;
+
+}
+
+#whole_table{
+    /* align-content: center; */
+    width: 100%;
+    height: 150px;
+
+}
+
+.event{
+    color:black;
+    padding-left:10px;
+    background-color:lightgray;
+    border: 1px solid white;
+    word-wrap:wrap;
+    /* height:70px; */
+
+}
+
+.event_inputs{
+size:100%;
+
+}
+
+.save_button{
+    background-color:teal;
+    background-image: url("./resources/images/lock_white2.png");
+    background-repeat: no-repeat;
+    background-size: 48px 36px;
+    width:50px;
+}
+
+.time{
+    width:75px; 
+     padding-right:20px; 
+     border-left-style:none;
+     background-color:white;
+     /* justify-content:right; */
+     float:right;
+     border-bottom-left-radius:0px;
+     border-top-left-radius:0px;
+}
+
+.input-group{
+    margin:0px!important;
+    
+}
+
+#header_div{
+    border-bottom:  3px solid black ;
+    margin-bottom:30px;
+
+}
